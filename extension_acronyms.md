@@ -68,6 +68,7 @@
 | kl  | [Klarna AB](http://www.klarna.de)  |
 | marm  | [marmalade GmbH](http://www.marmalade.de/)  |
 | mb  | Martin Bornack  |
+| medi  | [medi GmbH & Co. KG](http://www.medi.de/)  |
 | mf  | [Mayflower GmbH](http://www.mayflower.de/)  |
 | mg  | [suabo](http://www.suabo.de/)  |
 | mo  | [derksen mediaopt gmbh](http://www.mediaopt.de/)  |
